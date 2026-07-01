@@ -5,3 +5,4 @@
 - sol_usd_price: Returns a Solana token's current USD price from DexScreener, using the highest-liquidity pair. Reports if no price exists.
 - fixreferenceerror: Resolves 'alve is not defined' by injecting a top-level binding of alve to the vetted global, so analyze/buy/sell can execute.
 - alve_info_and_sol_convert: Explains what 'alve' is (the vetted Solana helper) and converts SOL<->lamports for a given amount like 0.01, fully offline.
+- sol_balance_threshold: Fetches the live SOL balance of a Solana address and reports whether it meets a threshold (default 0.05 SOL).
