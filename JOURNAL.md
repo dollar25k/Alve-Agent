@@ -21,3 +21,6 @@ Challenger win-rate 33% at 6 votes.
 ## v0.2 · journal
 New challenger created
 Add optional targeted follow-up offer and preempting common misconceptions
+
+## v0.3
+Add optional targeted follow-up offer and preempting common misconceptions (win-rate 83%).
