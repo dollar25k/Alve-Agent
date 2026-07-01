@@ -28,3 +28,11 @@ Add optional targeted follow-up offer and preempting common misconceptions (win-
 ## v0.3 · journal
 New challenger created
 Add rule: ground mechanisms with one concrete worked example
+
+## v0.3 · journal
+Challenger rolled back — champion won
+Challenger win-rate 33% at 3 votes.
+
+## v0.3 · journal
+New challenger created
+Add rule to name exact identifiers instead of vague descriptions

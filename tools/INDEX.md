@@ -7,3 +7,4 @@
 - alve_info_and_sol_convert: Explains what 'alve' is (the vetted Solana helper) and converts SOL<->lamports for a given amount like 0.01, fully offline.
 - sol_balance_threshold: Fetches the live SOL balance of a Solana address and reports whether it meets a threshold (default 0.05 SOL).
 - token_check: Scores a Solana token mint 0-100 for safety using DexScreener liquidity, 24h volume, pair age and pair count signals.
+- number_info: Analyze a number: parity, primality, factors, digit sum, and base conversions (binary/octal/hex). No network.
