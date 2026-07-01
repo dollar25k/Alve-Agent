@@ -9,3 +9,7 @@ Add rule to state assumptions on context-dependent questions
 
 ## v0.2
 Add rule to state assumptions on context-dependent questions (win-rate 83%).
+
+## v0.2 · journal
+New challenger created
+Add rule to correct misleading terms and give a memorable takeaway
