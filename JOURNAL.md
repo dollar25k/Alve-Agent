@@ -24,3 +24,7 @@ Add optional targeted follow-up offer and preempting common misconceptions
 
 ## v0.3
 Add optional targeted follow-up offer and preempting common misconceptions (win-rate 83%).
+
+## v0.3 · journal
+New challenger created
+Add rule: ground mechanisms with one concrete worked example
