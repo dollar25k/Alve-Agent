@@ -15,3 +15,4 @@
 - lp_mint_resolver: Resolve a Raydium/Orca-style AMM pool/pair account to its LP token mint for burn/lock verification, via on-chain account decode.
 - wallet_deep_history: Paginate getSignaturesForAddress with a before-cursor over a Solana wallet's history; single page by default, full deep scan when asked.
 - solana_wallet_token_pnl: Solana wallet PnL for one token mint: parses swap history (Helius) to compute realized/unrealized profit in SOL and USD.
+- solana_token_safety_check-waw6: Decodes an SPL token mint's mint/freeze authorities on-chain and checks LP lock/burn status, returning safety flags and warnings.
