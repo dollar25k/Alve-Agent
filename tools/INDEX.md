@@ -9,3 +9,4 @@
 - token_check: Scores a Solana token mint 0-100 for safety using DexScreener liquidity, 24h volume, pair age and pair count signals.
 - number_info: Analyze a number: parity, primality, factors, digit sum, and base conversions (binary/octal/hex). No network.
 - prompt_builder: Turns a rough idea into a structured, high-quality prompt (role, context, task, constraints, output format). Fully local, no network.
+- solana_mint_safety_authority_holders_lp_: Checks mint/freeze authority, supply, holder distribution and incinerator LP-burn for a Solana SPL mint. Holder scan needs Helius.

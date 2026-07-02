@@ -44,3 +44,7 @@ Challenger win-rate 0% at 3 votes.
 ## v0.3 · journal
 New challenger created
 Add rule to ask one clarifying question when ambiguity risks a wrong answer
+
+## v0.3 · journal
+Cycle without promotion — not enough votes
+Collected 0/2 votes, collection extended.
